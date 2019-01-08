@@ -1,7 +1,7 @@
 # hangman-js
 A small hangman app created to help me continue to define various Javascript usages.
 
-I created this small front-end web app to better understand the usage of the following Javascript tools:
+I created this small front-end web app to help me better understand the usage of the following Javascript tools:
   1) Promises and Async/Await
   2) Connecting with APIs
   3) Error handling
